@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/exe4jlib.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/jxl.jar" sourcepath="E:/开发/e4j8497.tmp_dir1590978219/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/开发/e4j8497.tmp_dir1590978219/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.74.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
